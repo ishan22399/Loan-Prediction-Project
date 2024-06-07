@@ -13,7 +13,6 @@ The Loan Prediction Project is a machine learning project designed to predict th
 ## Structure
 
 - **Data**: Contains datasets for training and testing.
-- **Notebooks**: Jupyter notebooks for EDA and model training.
 - **Scripts**: Python scripts for model training, prediction, and evaluation.
 - **Models**: Saved models.
 - **README.md**: Overview, installation, and usage guidelines.
